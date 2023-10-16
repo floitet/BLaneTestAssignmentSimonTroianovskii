@@ -1,0 +1,38 @@
+#listOptions {
+  margin-right: 8px;
+}
+
+#prescription-items .item-input-control {
+  border: 0;
+  box-shadow: none;
+  background-color: transparent;
+}
+
+#prescription-items .done-prescription {
+  text-decoration: line-through;
+}
+
+#prescription-items .prescription-item-title {
+  padding-top: 8px;
+}
+
+#prescription-items .list-group-item {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+#prescription-items .list-group-item .btn-xs {
+  padding: 0;
+}
+
+#prescription-items .prescription-item-checkbox {
+  padding-top: 8px;
+}
+
+#prescription-items .prescription-item-commands {
+  padding-top: 4px;
+}
+
+.modal-footer {
+  display: block;
+}
